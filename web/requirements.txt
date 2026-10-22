@@ -99,7 +99,7 @@ pydantic==2.10.4
 pydantic_core==2.27.2
 pydeck==0.9.1
 Pygments==2.18.0
-PyJWT==2.10.1
+PyJWT==2.15.0
 PyMuPDF==1.25.1
 pymupdf4llm==0.0.17
 pyparsing==3.2.1
