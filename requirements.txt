@@ -41,7 +41,7 @@ proto-plus==1.25.0
 protobuf==5.29.6
 pyairtable==3.0.1
 pyarrow==23.0.1
-pyasn1==0.6.4
+pyasn1==0.6.5
 pyasn1_modules==0.4.1
 pydantic==2.10.5
 pydantic_core==2.27.2
@@ -66,7 +66,7 @@ streamlit==1.54.0
 streamlit-option-menu==0.4.0
 tenacity==9.0.0
 toml==0.10.2
-tornado==6.5.9
+tornado==6.6.1
 tqdm==4.66.3
 typing_extensions==4.12.2
 tzdata==2024.2
